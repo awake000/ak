@@ -184,6 +184,7 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
+CETV教育综合,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8$央视频
 
 
 🛰[IPV6]卫视频道,#genre#
