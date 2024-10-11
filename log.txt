@@ -391,6 +391,7 @@ CCTV8k,http://cdn.jdshipin.com:8880/ysp.php?id=cctv8k
 📡[IPV4]重温经典,#genre#
 
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+重温经典,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D
 重温经典,http://mtw.so/5NPX0U
 金庸剧场,http://live.dxms.top/dwy/jyjc.php
 星光剧场,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
