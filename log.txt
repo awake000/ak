@@ -700,9 +700,15 @@ CCTV8k,http://cdn.jdshipin.com:8880/ysp.php?id=cctv8k
 动漫2台,http://37.27.111.214:8080/live/106/hls.m3u8
 
 📽[IPV4]电影轮播,#genre#
+华数4K电影,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
+1905国内电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
+1905环球经典,http://php.jdshipin.com:8880/1905.php?id=1905dy2
+AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 经典电影台,https://ali.hlspull.yximgs.com/live/asdfg32522.flv
 经典影视台,https://ali.hlspull.yximgs.com/live/asdfg32516.flv
-1905电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
 电影_灾难片,http://live.metshop.top/huya/11602075?cdn=alicdn
 电影_高分动作,http://live.metshop.top/huya/11352884?cdn=alicdn
 电影_动作电影,http://live.metshop.top/huya/11602077?cdn=alicdn
@@ -714,7 +720,8 @@ CCTV8k,http://cdn.jdshipin.com:8880/ysp.php?id=cctv8k
 电影_许氏三杰,http://live.metshop.top/huya/11602033?cdn=alicdn
 电影_经典港片,http://live.metshop.top/huya/11352965?cdn=alicdn
 电影_镖行天下,http://live.metshop.top/huya/11352969?cdn=alicdn
-电影_高能反转,http://live.metshop.top/huya/11352887?cdn=alicdn#https://live.metshop.top/huya/11352887
+电影_高能反转,http://live.metshop.top/huya/11352887?cdn=alicdn
+电影_高能反转,https://live.metshop.top/huya/11352887
 电影_喜乐影院,http://live.metshop.top/huya/21059580?cdn=alicdn
 电影_蘑菇影厅,http://live.metshop.top/huya/11601981?cdn=alicdn
 电影_搞笑恐怖,http://live.metshop.top/huya/11601960?cdn=alicdn
@@ -749,17 +756,17 @@ CCTV8k,http://cdn.jdshipin.com:8880/ysp.php?id=cctv8k
 柳河综合,http://stream5.jlntv.cn/lh/sd/live.m3u8
 
 📡[IPV4]内蒙古线,#genre#
-内蒙古蒙语,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
-内蒙古文化频道,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
-内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
-内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
-内蒙古少儿频道,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
-内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
-内蒙古农牧频道,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
-鄂托克旗综合频道,http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
+内蒙新闻,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
+内蒙经济,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
+内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
+内蒙文体,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
+内蒙农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
+蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
+蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
 奎屯汉语综合,http://218.84.12.186:8001/hls/main/playlist.m3u8
 奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8
 玛纳斯综合频道,http://218.84.127.245:1026/hls/main1/playlist.m3u8
+鄂托克旗综合频道,http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
 
 📡[IPV4]新疆频道,#genre#
 可克达拉新闻综合,http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8
@@ -846,7 +853,6 @@ CCTV8k,http://cdn.jdshipin.com:8880/ysp.php?id=cctv8k
 哈哈炫动,http://wsd.saj-web.top:4000/udp/225.1.1.62:5002
 
 📡[IPV4]江苏频道,#genre#
-
 江苏城市,http://www.ccmjzhao.xyz/migu480P.php?id=jscs
 江苏综艺,http://www.ccmjzhao.xyz/migu480P.php?id=jszy
 江苏新闻,http://www.ccmjzhao.xyz/migu480P.php?id=jsxw
@@ -908,8 +914,6 @@ CCTV8k,http://cdn.jdshipin.com:8880/ysp.php?id=cctv8k
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 新昌新闻频道,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
@@ -920,6 +924,18 @@ CCTV8k,http://cdn.jdshipin.com:8880/ysp.php?id=cctv8k
 江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8
 
 📡[IPV4]黑龙江线,#genre#
+黑龙江新闻法治,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8
+黑龙江农业科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
+黑龙江少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
+黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
+黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
+佳木斯新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
+齐齐哈尔经济法制,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8
+齐齐哈尔新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
+双鸭山公共,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8
+双鸭山综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
+鹤岗新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
@@ -1004,6 +1020,36 @@ CCTV8k,http://cdn.jdshipin.com:8880/ysp.php?id=cctv8k
 武夷山综合,http://fjwysdb.chinashadt.com:2036/live/1.stream/playlist.m3u8
 
 📡[IPV4]天津频道,#genre#
+天津卫视,http://ha.xushining.com:50000/udp/225.1.1.111:5002$天津联通组播
+天津新闻,http://ha.xushining.com:50000/udp/225.1.1.130:5002$天津联通组播
+天津文艺,http://ha.xushining.com:50000/udp/225.1.1.131:5002$天津联通组播
+天津影视,http://ha.xushining.com:50000/udp/225.1.1.149:5002$天津联通组播
+天津都市,http://ha.xushining.com:50000/udp/225.1.1.128:5002$天津联通组播
+天津体育,http://ha.xushining.com:50000/udp/225.1.1.122:5002$天津联通组播
+天津科教,http://ha.xushining.com:50000/udp/225.1.1.129:5002$天津联通组播
+天津少儿,http://ha.xushining.com:50000/udp/225.1.1.125:5002$天津联通组播
+天津购物,http://ha.xushining.com:50000/udp/225.1.1.151:5002$天津联通组播
+天津IPTV,http://ha.xushining.com:50000/udp/225.1.2.123:5002$天津联通组播
+河东卫视,http://ha.xushining.com:50000/udp/225.1.2.2:5002$天津联通组播
+河西卫视,http://ha.xushining.com:50000/udp/225.1.2.4:5002$天津联通组播
+蓟州卫视,http://ha.xushining.com:50000/udp/225.1.1.82:5002$天津联通组播
+静海卫视,http://ha.xushining.com:50000/udp/225.1.1.110:5002$天津联通组播
+滨海1,http://ha.xushining.com:50000/udp/225.1.2.7:5002$天津联通组播
+滨海2,http://ha.xushining.com:50000/udp/225.1.2.8:5002$天津联通组播
+4K私享家,http://ha.xushining.com:50000/udp/225.1.1.156:5002$天津联通组播
+4K影视,http://ha.xushining.com:50000/udp/225.1.2.190:5002$天津联通组播
+CHC动作电影,http://ha.xushining.com:50000/udp/225.1.1.215:5002$天津联通组播
+CHC高清电影,http://ha.xushining.com:50000/udp/225.1.1.214:5002$天津联通组播
+CHC家庭影院,http://ha.xushining.com:50000/udp/225.1.1.213:5002$天津联通组播
+动漫秀场,http://ha.xushining.com:50000/udp/225.1.1.134:5002$天津联通组播
+哈哈炫动,http://ha.xushining.com:50000/udp/225.1.1.62:5002$天津联通组播
+欢乐动漫,http://ha.xushining.com:50000/udp/225.1.1.132:5002$天津联通组播
+都市剧场,http://ha.xushining.com:50000/udp/225.1.1.146:5002$天津联通组播
+欢笑剧场4K,http://ha.xushining.com:50000/udp/225.1.1.139:5002$天津联通组播
+法制天地,http://ha.xushining.com:50000/udp/225.1.1.237:5002$天津联通组播
+环球旅游,http://ha.xushining.com:50000/udp/225.1.2.200:5002$天津联通组播
+环球奇观,http://ha.xushining.com:50000/udp/225.1.1.197:5002$天津联通组播
+
 宝坻一套,http://xuys.top:8888/udp/225.1.1.83:5002
 宝坻一套,http://wsd.saj-web.top:4000/udp/225.1.1.83:5002
 滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8
