@@ -389,7 +389,6 @@ CCTV8k,http://cdn.jdshipin.com:8880/ysp.php?id=cctv8k
 重庆卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226409/index.m3u8#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226409/index.m3u8#http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8#http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8#http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8?#http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226409/index.m3u8#http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8#http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010053/1.m3u8#http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010053/1.m3u8?#http://110.53.52.63:8888/newlive/live/hls/30/live.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226409/index.m3u8
 
 📡[IPV4]重温经典,#genre#
-
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D
 重温经典,http://mtw.so/5NPX0U
@@ -674,13 +673,9 @@ CCTV8k,http://cdn.jdshipin.com:8880/ysp.php?id=cctv8k
 动漫2台,http://37.27.111.214:8080/live/106/hls.m3u8
 
 📽[IPV4]电影轮播,#genre#
-华数4K电影,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
 1905国内电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
 1905环球经典,http://php.jdshipin.com:8880/1905.php?id=1905dy2
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
-黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 经典电影台,https://ali.hlspull.yximgs.com/live/asdfg32522.flv
 经典影视台,https://ali.hlspull.yximgs.com/live/asdfg32516.flv
 电影_灾难片,http://live.metshop.top/huya/11602075?cdn=alicdn
@@ -695,7 +690,6 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 电影_经典港片,http://live.metshop.top/huya/11352965?cdn=alicdn
 电影_镖行天下,http://live.metshop.top/huya/11352969?cdn=alicdn
 电影_高能反转,http://live.metshop.top/huya/11352887?cdn=alicdn
-电影_高能反转,https://live.metshop.top/huya/11352887
 电影_喜乐影院,http://live.metshop.top/huya/21059580?cdn=alicdn
 电影_蘑菇影厅,http://live.metshop.top/huya/11601981?cdn=alicdn
 电影_搞笑恐怖,http://live.metshop.top/huya/11601960?cdn=alicdn
@@ -704,6 +698,10 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 神乐-1台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
 神乐-2台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 大吉大利代,https://pull.kktv8.com/livekktv/128600025.flv
+CHC动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
+CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
+CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
+重温经典,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D
 
 📀[IPV4]经典老剧,#genre#
 神乐影院-1台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
@@ -1157,22 +1155,9 @@ CNR中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8
 
 📡[IPV4]黑龙江线,#genre#
-黑龙江新闻法治,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8
-黑龙江农业科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
-黑龙江少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
-黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
-黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
-黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
-佳木斯新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
-齐齐哈尔经济法制,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8
-齐齐哈尔新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
-双鸭山公共,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8
-双鸭山综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
-鹤岗新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
-富裕新闻综合,http://221.209.44.174:1980/hls/1001.m3u8
 
 📡[IPV4]贵州频道,#genre#
 七星关电视台,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
