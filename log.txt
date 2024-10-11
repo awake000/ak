@@ -1014,116 +1014,132 @@ CNR中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 西安戏剧影视,https://xatv-yd1.xiancity.cn/live/4/index.m3u8
 西安丝路频道,https://xatv-yd1.xiancity.cn/live/5/index.m3u8
 
-📀游戏「赛事」,#genre#
-「全球总决赛」英雄联盟 4K,http://live.iill.top/huya.php?id=18524915
-「全球总决赛」英雄联盟 4K,http://live.iill.top/bilibili.php?id=10
-「B站」CS 2,http://live.iill.top/bilibili.php?id=21622811
-「虎牙」CS 2,http://live.iill.top/huya.php?id=483917
-「B站」英雄联盟,http://live.iill.top/bilibili.php?id=6
-「虎牙」英雄联盟 𝟙,http://live.iill.top/huya.php?id=660000
-「虎牙」英雄联盟 𝟚,http://live.iill.top/huya.php?id=660001
-「斗鱼」英雄联盟 𝟙,http://live.iill.top/douyu.php?id=288016
-「斗鱼」英雄联盟 𝟚,http://live.iill.top/douyu.php?id=424559
-「B站」英雄联盟•手游,http://live.iill.top/bilibili.php?id=23138275
-「B站」王者荣耀 𝟙,http://live.iill.top/bilibili.php?id=55
-「B站」王者荣耀 𝟚,http://live.iill.top/bilibili.php?id=21654762
-「虎牙」王者荣耀 𝟙,http://live.iill.top/huya.php?id=660002
-「虎牙」王者荣耀 𝟚,http://live.iill.top/huya.php?id=660164
-「斗鱼」王者荣耀 𝟙,http://live.iill.top/douyu.php?id=1863767
-「斗鱼」王者荣耀 𝟚,http://live.iill.top/douyu.php?id=1984839
-「B站」绝地求生,http://live.iill.top/bilibili.php?id=98
-「虎牙」绝地求生 𝟙,http://live.iill.top/huya.php?id=660004
-「虎牙」绝地求生 𝟚,http://live.iill.top/huya.php?id=660005
-「斗鱼」绝地求生,http://live.iill.top/douyu.php?id=100
-「虎牙」和平精英,http://live.iill.top/huya.php?id=660006
-「斗鱼」和平精英,http://live.iill.top/douyu.php?id=999
-「虎牙」金铲铲之战,http://live.iill.top/huya.php?id=660579
-「斗鱼」金铲铲之战,http://live.iill.top/douyu.php?id=9715241
-「虎牙」DOTA2,http://live.iill.top/huya.php?id=660118
-「斗鱼」DOTA2,http://live.iill.top/douyu.php?id=3811559
-「斗鱼」云顶之弈,http://live.iill.top/douyu.php?id=522423
-「虎牙」永劫无间,http://live.iill.top/huya.php?id=660115
-「斗鱼」永劫无间,http://live.iill.top/huya.php?id=9662891
-「B站」使命召唤•手游,http://live.iill.top/bilibili.php?id=22741849
-「虎牙」使命召唤•手游,http://live.iill.top/huya.php?id=11718629
-「斗鱼」使命召唤•手游,http://live.iill.top/douyu.php?id=9223245
-「虎牙」穿越火线,http://live.iill.top/huya.php?id=660101
-「斗鱼」穿越火线 𝟙,http://live.iill.top/douyu.php?id=605964
-「斗鱼」穿越火线 𝟚,http://live.iill.top/douyu.php?id=5388537
-「虎牙」穿越火线•手游,http://live.iill.top/huya.php?id=660102
-「虎牙」逆战,http://live.iill.top/huya.php?id=nsl2021
-「B站」无畏契约,http://live.iill.top/bilibili.php?id=22908869
-「虎牙」无畏契约,http://live.iill.top/huya.php?id=660679
-「斗鱼」无畏契约,http://live.iill.top/douyu.php?id=4585645
-「斗鱼」原神,http://live.iill.top/douyu.php?id=10853239
-「B站」QQ飞车•手游,http://live.iill.top/bilibili.php?id=21743919
-「斗鱼」QQ飞车•手游,http://live.iill.top/douyu.php?id=5040227
-「斗鱼」梦幻西游·手游,http://live.iill.top/huya.php?id=9163712
-「斗鱼」街霸,http://live.iill.top/huya.php?id=11437
-「B站」JJ斗地主,http://live.iill.top/bilibili.php?id=22021983
-「斗鱼」JJ斗地主,http://live.iill.top/douyu.php?id=488743
-「斗鱼」我的世界,http://live.iill.top/douyu.php?id=738878
-「斗鱼」FIFA,http://live.iill.top/douyu.php?id=7692166
-「斗鱼」火影忍者,http://live.iill.top/douyu.php?id=1997723
-「斗鱼」跑跑卡丁车,http://live.iill.top/douyu.php?id=7722576
-「斗鱼」跑跑卡丁车•手游,http://live.iill.top/douyu.php?id=6672862
 
-📀埋堆「轮播」,#genre#
-埋堆堆 𝟙,http://live.iill.top/huya.php?id=23740156
-埋堆堆 𝟚,http://live.iill.top/huya.php?id=23749096
-埋堆堆 𝟛,http://live.iill.top/huya.php?id=23735126
-埋堆堆 𝟜,http://live.iill.top/huya.php?id=23903123
-埋堆堆 𝟝,http://live.iill.top/huya.php?id=23734169
-埋堆堆 𝟞,http://live.iill.top/huya.php?id=23863804
-埋堆堆 𝟟,http://live.iill.top/huya.php?id=23865080
-埋堆堆 𝟠,http://live.iill.top/huya.php?id=23864973
-埋堆堆 𝟡,http://live.iill.top/huya.php?id=23903130
-埋堆堆 𝟙𝟘,http://live.iill.top/huya.php?id=23860039
-埋堆堆 𝟙𝟙,http://live.iill.top/huya.php?id=23903183
-埋堆堆 𝟙𝟚,http://live.iill.top/huya.php?id=23903196
-埋堆堆 𝟙𝟛,http://live.iill.top/huya.php?id=23728674
-埋堆堆 𝟙𝟜,http://live.iill.top/huya.php?id=23865036
-埋堆堆 𝟙𝟝,http://live.iill.top/huya.php?id=23829543
-埋堆堆 𝟙𝟞,http://live.iill.top/huya.php?id=23865161
-埋堆堆 𝟙𝟟,http://live.iill.top/huya.php?id=23865058
-埋堆堆 𝟙𝟠,http://live.iill.top/huya.php?id=23824164
-埋堆堆 𝟙𝟡,http://live.iill.top/huya.php?id=23863796
-埋堆堆 𝟚𝟘,http://live.iill.top/huya.php?id=23734183
-埋堆堆 𝟚𝟙,http://live.iill.top/huya.php?id=23728660
-埋堆堆 𝟚𝟚,http://live.iill.top/huya.php?id=23865142
-埋堆堆 𝟚𝟛,http://live.iill.top/huya.php?id=23734246
-埋堆堆 𝟚𝟜,http://live.iill.top/huya.php?id=23865171
-埋堆堆 𝟚𝟝,http://live.iill.top/huya.php?id=23734256
-埋堆堆 𝟚𝟞,http://live.iill.top/huya.php?id=23749083
 
-📀影视「轮播」,#genre#
-音乐石榴「音乐」,http://live.iill.top/huya.php?id=17091681
-音乐速递「音乐」,http://live.iill.top/huya.php?id=19439762
-治愈•放松「音乐」,http://live.iill.top/huya.php?id=21241811
-阅读•学习「音乐」,http://live.iill.top/huya.php?id=21241813
-电视剧•1「解说」,http://live.iill.top/huya.php?id=21277391
-电视剧•2「解说」,http://live.iill.top/huya.php?id=25018873
-电影•1「解说」,http://live.iill.top/huya.php?id=20289754
-电影•2「解说」,http://live.iill.top/huya.php?id=24983280
-电影•3「解说」,http://live.iill.top/huya.php?id=24396428
-动漫•1「解说」,http://live.iill.top/huya.php?id=19757963
-恐怖电影「解说」,http://live.iill.top/huya.php?id=23419131
-漫威「解说」,http://live.iill.top/huya.php?id=17089779
-美剧「解说」,http://live.iill.top/huya.php?id=20488841
-七龙珠「解说」,http://live.iill.top/huya.php?id=25650806
-止戈电影「解说」,http://live.iill.top/huya.php?id=19863777
-挨饿德•1「其他」,http://live.iill.top/huya.php?id=20985858
-挨饿德•2「其他」,http://live.iill.top/huya.php?id=17693860
-互扇巴掌大赛「其他」,http://live.iill.top/huya.php?id=20072873
-荒野求生「其他」,http://live.iill.top/huya.php?id=593667
-野行者「其他」,http://live.iill.top/huya.php?id=20072663
-跳舞「其他」,http://live.iill.top/huya.php?id=24634408
-茶啊二中「动画」,http://live.iill.top/huya.php?id=11213191
-哆啦A梦「动漫」,http://live.iill.top/huya.php?id=11601963
-航海王「动漫」,http://live.iill.top/huya.php?id=16913382
-七龙珠「动漫」,http://live.iill.top/huya.php?id=11601966
-猫和老鼠「动漫」,http://live.iill.top/huya.php?id=11352879
-中华小当家「动漫」,http://live.iill.top/huya.php?id=11342413
+📀埋堆堆「轮播」,#genre#
+埋堆堆1,https://live.metshop.top/huya/23749096
+埋堆堆2,https://live.metshop.top/huya/23735126
+埋堆堆3,https://live.metshop.top/huya/23865152
+埋堆堆4,https://live.metshop.top/huya/23903196
+埋堆堆5,https://live.metshop.top/huya/23740156
+埋堆堆6,https://live.metshop.top/huya/23728660
+埋堆堆7,https://live.metshop.top/huya/23735153
+埋堆堆8,https://live.metshop.top/huya/23865058
+埋堆堆9,https://live.metshop.top/huya/23734183
+埋堆堆10,https://live.metshop.top/huya/23749068
+埋堆堆11,https://live.metshop.top/huya/23865036
+埋堆堆12,https://live.metshop.top/huya/23740162
+埋堆堆13,https://live.metshop.top/huya/23829474
+埋堆堆14,https://live.metshop.top/huya/23863833
+埋堆堆15,https://live.metshop.top/huya/23903106
+埋堆堆16,https://live.metshop.top/huya/23865025
+埋堆堆17,https://live.metshop.top/huya/23728689
+埋堆堆18,https://live.metshop.top/huya/23824171
+埋堆堆19,https://live.metshop.top/huya/23860057
+埋堆堆20,https://live.metshop.top/huya/23865072
+埋堆堆21,https://live.metshop.top/huya/23734176
+埋堆堆22,https://live.metshop.top/huya/23728651
+埋堆堆23,https://live.metshop.top/huya/23734246
+埋堆堆24,https://live.metshop.top/huya/23865179
+埋堆堆25,https://live.metshop.top/huya/23734196
+埋堆堆26,https://live.metshop.top/huya/23734211
+埋堆堆27,https://live.metshop.top/huya/23865086
+埋堆堆28,https://live.metshop.top/huya/23863796
+埋堆堆29,https://live.metshop.top/huya/23863822
+埋堆堆30,https://live.metshop.top/huya/23749083
+埋堆堆31,https://live.metshop.top/huya/23734243
+埋堆堆32,https://live.metshop.top/huya/23864480
+埋堆堆33,https://live.metshop.top/huya/23746486
+埋堆堆34,https://live.metshop.top/huya/23860049
+埋堆堆35,https://live.metshop.top/huya/23749074
+埋堆堆36,https://live.metshop.top/huya/23863882
+埋堆堆37,https://live.metshop.top/huya/23863778
+埋堆堆38,https://live.metshop.top/huya/23824164
+埋堆堆39,https://live.metshop.top/huya/23829537
+埋堆堆40,https://live.metshop.top/huya/23863809
+埋堆堆41,https://live.metshop.top/huya/23865096
+埋堆堆42,https://live.metshop.top/huya/23863804
+埋堆堆43,https://live.metshop.top/huya/23728630
+埋堆堆44,https://live.metshop.top/huya/23863895
+埋堆堆45,https://live.metshop.top/huya/23863787
+埋堆堆46,https://live.metshop.top/huya/23728637
+埋堆堆47,https://live.metshop.top/huya/23865142
+埋堆堆48,https://live.metshop.top/huya/23903085
+埋堆堆49,https://live.metshop.top/huya/23903183
+埋堆堆50,https://live.metshop.top/huya/23728647
+埋堆堆51,https://live.metshop.top/huya/23746691
+埋堆堆52,https://live.metshop.top/huya/23829447
+埋堆堆53,https://live.metshop.top/huya/23728693
+埋堆堆54,https://live.metshop.top/huya/23903130
+埋堆堆55,https://live.metshop.top/huya/23734223
+埋堆堆56,https://live.metshop.top/huya/23734169
+埋堆堆57,https://live.metshop.top/huya/23865124
+埋堆堆58,https://live.metshop.top/huya/23865186
+埋堆堆59,https://live.metshop.top/huya/23902225
+埋堆堆60,https://live.metshop.top/huya/23903164
+埋堆堆61,https://live.metshop.top/huya/23728674
+埋堆堆1,http://43.128.40.42:198/虎牙直播/huya.php?id=23749096
+埋堆堆2,http://43.128.40.42:198/虎牙直播/huya.php?id=23735126
+埋堆堆3,http://43.128.40.42:198/虎牙直播/huya.php?id=23865152
+埋堆堆4,http://43.128.40.42:198/虎牙直播/huya.php?id=23903196
+埋堆堆5,http://43.128.40.42:198/虎牙直播/huya.php?id=23740156
+埋堆堆6,http://43.128.40.42:198/虎牙直播/huya.php?id=23728660
+埋堆堆7,http://43.128.40.42:198/虎牙直播/huya.php?id=23865058
+埋堆堆8,http://43.128.40.42:198/虎牙直播/huya.php?id=23734183
+埋堆堆9,http://43.128.40.42:198/虎牙直播/huya.php?id=23865036
+埋堆堆10,http://43.128.40.42:198/虎牙直播/huya.php?id=23734246
+埋堆堆11,http://43.128.40.42:198/虎牙直播/huya.php?id=23863796
+埋堆堆12,http://43.128.40.42:198/虎牙直播/huya.php?id=23749083
+埋堆堆13,http://43.128.40.42:198/虎牙直播/huya.php?id=23824164
+埋堆堆14,http://43.128.40.42:198/虎牙直播/huya.php?id=23863804
+埋堆堆15,http://43.128.40.42:198/虎牙直播/huya.php?id=23865142
+埋堆堆16,http://43.128.40.42:198/虎牙直播/huya.php?id=23903183
+埋堆堆17,http://43.128.40.42:198/虎牙直播/huya.php?id=23903130
+埋堆堆18,http://43.128.40.42:198/虎牙直播/huya.php?id=23734169
+埋堆堆19,http://43.128.40.42:198/虎牙直播/huya.php?id=23728674
+埋堆堆20,http://43.128.40.42:198/虎牙直播/huya.php?id=23735153
+埋堆堆21,http://43.128.40.42:198/虎牙直播/huya.php?id=23749068
+埋堆堆22,http://43.128.40.42:198/虎牙直播/huya.php?id=23740162
+埋堆堆23,http://43.128.40.42:198/虎牙直播/huya.php?id=23829474
+埋堆堆24,http://43.128.40.42:198/虎牙直播/huya.php?id=23863833
+埋堆堆25,http://43.128.40.42:198/虎牙直播/huya.php?id=23903106
+埋堆堆26,http://43.128.40.42:198/虎牙直播/huya.php?id=23865025
+埋堆堆27,http://43.128.40.42:198/虎牙直播/huya.php?id=23728689
+埋堆堆28,http://43.128.40.42:198/虎牙直播/huya.php?id=23824171
+埋堆堆29,http://43.128.40.42:198/虎牙直播/huya.php?id=23860057
+埋堆堆30,http://43.128.40.42:198/虎牙直播/huya.php?id=23865072
+埋堆堆31,http://43.128.40.42:198/虎牙直播/huya.php?id=23734176
+埋堆堆32,http://43.128.40.42:198/虎牙直播/huya.php?id=23728651
+埋堆堆33,http://43.128.40.42:198/虎牙直播/huya.php?id=23865179
+埋堆堆34,http://43.128.40.42:198/虎牙直播/huya.php?id=23734196
+埋堆堆35,http://43.128.40.42:198/虎牙直播/huya.php?id=23734211
+埋堆堆36,http://43.128.40.42:198/虎牙直播/huya.php?id=23865086
+埋堆堆37,http://43.128.40.42:198/虎牙直播/huya.php?id=23863822
+埋堆堆38,http://43.128.40.42:198/虎牙直播/huya.php?id=23734243
+埋堆堆39,http://43.128.40.42:198/虎牙直播/huya.php?id=23864480
+埋堆堆40,http://43.128.40.42:198/虎牙直播/huya.php?id=23746486
+埋堆堆41,http://43.128.40.42:198/虎牙直播/huya.php?id=23860049
+埋堆堆42,http://43.128.40.42:198/虎牙直播/huya.php?id=23749074
+埋堆堆43,http://43.128.40.42:198/虎牙直播/huya.php?id=23863882
+埋堆堆44,http://43.128.40.42:198/虎牙直播/huya.php?id=23863778
+埋堆堆45,http://43.128.40.42:198/虎牙直播/huya.php?id=23829537
+埋堆堆46,http://43.128.40.42:198/虎牙直播/huya.php?id=23863809
+埋堆堆47,http://43.128.40.42:198/虎牙直播/huya.php?id=23865096
+埋堆堆48,http://43.128.40.42:198/虎牙直播/huya.php?id=23728630
+埋堆堆49,http://43.128.40.42:198/虎牙直播/huya.php?id=23863895
+埋堆堆50,http://43.128.40.42:198/虎牙直播/huya.php?id=23863787
+埋堆堆51,http://43.128.40.42:198/虎牙直播/huya.php?id=23728637
+埋堆堆52,http://43.128.40.42:198/虎牙直播/huya.php?id=23903085
+埋堆堆53,http://43.128.40.42:198/虎牙直播/huya.php?id=23728647
+埋堆堆54,http://43.128.40.42:198/虎牙直播/huya.php?id=23746691
+埋堆堆55,http://43.128.40.42:198/虎牙直播/huya.php?id=23829447
+埋堆堆56,http://43.128.40.42:198/虎牙直播/huya.php?id=23728693
+埋堆堆57,http://43.128.40.42:198/虎牙直播/huya.php?id=23734223
+埋堆堆58,http://43.128.40.42:198/虎牙直播/huya.php?id=23865124
+埋堆堆59,http://43.128.40.42:198/虎牙直播/huya.php?id=23865186
+埋堆堆60,http://43.128.40.42:198/虎牙直播/huya.php?id=23902225
+埋堆堆61,http://43.128.40.42:198/虎牙直播/huya.php?id=23903164
+埋堆堆62,http://43.128.40.42:198/虎牙直播/huya.php?id=23863818
 
 📡[IPV4]甘肃频道,#genre#
 甘肃卫视,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
