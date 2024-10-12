@@ -582,8 +582,9 @@ CCTV8k,http://cdn.jdshipin.com:8880/ysp.php?id=cctv8k
 家庭影院频道,http://58.59.47.242:8180/TV00000000000000000029@HHZT
 影迷电影频道,http://58.59.47.242:8180/TV00000000000000000031@HHZT
 大湾区音乐会,https://vod2-nflive.southcn.com/6c9b613dvodcq1500007626/690b5f141397757893540164754/playlist_eof.m3u8
---以下频道播放卡顿--,http://live.dxms.top/dwy/jyjc.php
---更换手机app投屏--,http://live.dxms.top/dwy/jyjc.php
+----以下频道卡顿----,http://live.dxms.top/dwy/jyjc.php
+----用手机版投屏----,http://live.dxms.top/dwy/jyjc.php
+----网盘文件自取----,http://live.dxms.top/dwy/jyjc.php
 金庸剧场,http://live.dxms.top/dwy/jyjc.php
 星光剧场,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 游击队,https://live.metshop.top/huya/11352936?cdn=txcdn
