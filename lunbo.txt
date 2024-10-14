@@ -16,7 +16,6 @@
 🐉奥运频道,#genre#
 巴黎奥运开幕式,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge12/126662925810848154051013005/aa9f232ba4be4c49921baae0c27194dd-4.m3u8
 
-
 🛰[IPV6]央视频道,#genre#
 CCTV-01,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8#http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8#http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
 CCTV-02,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8#http://[2409:8087:74f0:22::4]:6410/270000001128/9900000502/index.m3u8?#http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8#http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
@@ -210,7 +209,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 粤语戏曲轮播,p3p://108.181.32.169:44171/64336236000b18a12210b67722665e99
 粤语戏曲轮播,P2p://generationnexxxt.com:19806/131a3f2bbae740fc982903c576a97920
 粤语长片轮播,p3p://108.181.32.169:44171/643361c7000d4bee220f05703b541d41
-粤语长片轮播,P2p://generationnexxxt.com:19806/3d6644cc478648c2952a8c69cb9fccf5
+粤语长片轮播,P2p://generationnexxxt.com:.19806/3d6644cc478648c2952a8c69cb9fccf5
 粤剧白蛇传情,http://cfss.cc/cdn/hy/19743437.m3u8
 粤剧白蛇传情,http://159.75.85.63:35455/huya/19743437
 国语译制电影,http://cfss.cc/cdn/dyu/2436390.m3u8
