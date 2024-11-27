@@ -4623,56 +4623,81 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 以下为地方频道,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 
 📡[IPV4]甘肃频道,#genre#
+地方频道,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 
 📡[IPV4]陕西频道,#genre#
+地方频道,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 
 📡[IPV4]江西频道,#genre#
+地方频道,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 
 📡[IPV4]吉林频道,#genre#
+地方频道,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 
 📡[IPV4]内蒙古线,#genre#
+地方频道,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 
 📡[IPV4]新疆频道,#genre#
+地方频道,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 
 📡[IPV4]江苏频道,#genre#
+地方频道,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 
 📡[IPV4]海南频道,#genre#
+地方频道,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 
 📡[IPV4]浙江频道,#genre#
+地方频道,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 
 📡[IPV4]湖北频道,#genre#
+地方频道,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 
 📡[IPV4]黑龙江线,#genre#
+地方频道,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 
 📡[IPV4]贵州频道,#genre#
+地方频道,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 
 📡[IPV4]安徽频道,#genre#
+地方频道,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 
 📡[IPV4]青海频道,#genre#
+地方频道,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 
 📡[IPV4]山西频道,#genre#
+地方频道,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 
 📡[IPV4]广东频道,#genre#
+地方频道,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 
 📡[IPV4]福建频道,#genre#
+地方频道,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 
 📡[IPV4]天津频道,#genre#
+地方频道,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 
 📡[IPV4]北京频道,#genre#
+地方频道,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 
 📡[IPV4]辽宁频道,#genre#
+地方频道,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 
 📡[IPV4]湖南频道,#genre#
+地方频道,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 
 📡[IPV4]河南频道,#genre#
+地方频道,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 
 📡[IPV4]广西频道,#genre#
 
 📡[IPV4]河北频道,#genre#
+地方频道,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 
 📡[IPV4]山东频道,#genre#
+地方频道,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 
 📡[IPV4]四川频道,#genre#
+地方频道,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 
 💃[IPV4]韩国舞台,#genre#
 韩国歌团001,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
